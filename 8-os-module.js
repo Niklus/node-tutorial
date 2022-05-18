@@ -6,7 +6,6 @@ const user = os.userInfo();
 console.log(user);
 
 // Return system uptime in seconds
-
 console.log(`The system uptime is ${os.uptime()} seconds`);
 
 const currentOS = {
